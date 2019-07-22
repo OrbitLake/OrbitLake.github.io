@@ -34,7 +34,11 @@
     "siteFonts": [],
     "uniqCompNum": 6,
     "versionPublish": "4.10.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<meta name=\"airtime-platform-display\" content=\"WebSite Personal\">\r\n<meta name=\"airtime-platform-id\" content=\"ffad08ea-ccbe-e2a8-b6bb-243de486aea7\">\r\n<script src=\"https://bittubeapp.com/tubepay/airtime.loader.js\" data-verify=\"meta\" data-autostart=\"true\"></script>",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
